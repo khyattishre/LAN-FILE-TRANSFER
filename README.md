@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # File Transfer Over LAN Using Python
 
@@ -40,3 +41,7 @@ The project was tested on one laptop using the loopback IP address 127.0.0.1. Mu
 
 ## Conclusion
 The project demonstrates TCP communication, socket programming, file handling, and multithreading using Python.
+=======
+# LAN-FILE-TRANSFER
+LAN-FILE-TRANSFER
+>>>>>>> 23cc1cf84a80a603ba63d9a08f587a34190b8e83
